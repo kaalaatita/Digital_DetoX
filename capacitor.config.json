@@ -1,0 +1,9 @@
+{
+  "appId": "ru.digitaldetox.app",
+  "appName": "Цифровой детокс",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
